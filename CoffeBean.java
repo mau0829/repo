@@ -1,3 +1,12 @@
+/*
+Problem :: 
+Coffee can problem. (David Gries). Suppose you have a coffee can which contains an unknown number of black beans and an 
+unknown number of white beans. Repeat the following process until exactly one bean remains: 
+Select two beans from the can at random. If they are both the same color, throw them both out,
+but insert another black bean. If they are different colors, throw the black one away, but return the white one. 
+Prove that this process terminates with exactly one bean left. 
+What can you deduce about the color of the last bean as a function of the initial number of black and white beans? 
+*/
 package com.demo.test;
 
 import java.util.ListIterator;
